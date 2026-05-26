@@ -10,8 +10,10 @@ P - Pause
 R - Restart
 Space - Start Game
 
+## Screenshots
+
 Game Screen
-![Game Screen](game_screen.png)
+![Game Screen](screenshots/game_screen.png)
 
 Pause mid game
-![Pause Screen](pause_mid_game.png)
+![Pause Screen](screenshots/pause_mid_game.png)
