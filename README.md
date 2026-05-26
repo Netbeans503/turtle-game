@@ -9,5 +9,7 @@ Right Arrow - Move Right
 P - Pause
 R - Restart
 Space - Start Game
+Game Screen
 ![Game Screen](game_screen.png)
+Pause mid game
 ![Pause Screen](pause_mid_game.png)
